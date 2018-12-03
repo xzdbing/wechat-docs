@@ -1,0 +1,27 @@
+{
+    "title": "WeChat Docs",
+    "language": "zh-hans",
+    "author": "xzdbing",
+    "plugins": [
+        "anchor-navigation-ex-toc",
+        "code",
+        "expandable-chapters-small",
+        "github",
+        "sectionx",
+        "splitter"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex-toc": {
+            "showLevel": false
+        },
+        "code": {
+            "copyButtons": true
+        },
+        "github": {
+            "url": "https://github.com/xzdbing"
+        },
+        "sectionx": {
+            "tag": "b"
+        }
+    }
+}

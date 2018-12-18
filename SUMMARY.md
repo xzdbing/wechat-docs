@@ -5,6 +5,7 @@
 ## Python 基础模块
 
 * [认识 Python](python/basics/python.md)
+* [虚拟机 PVM](python/basics/pvm.md)
 
 ## 管理工具
 

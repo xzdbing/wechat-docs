@@ -2,6 +2,10 @@
 
 * [前言](README.md)
 
+## Python 基础模块
+
+* [认识 Python](python/basics/python.md)
+
 ## 管理工具
 
 * [Git 版本控制](tools/git.md)

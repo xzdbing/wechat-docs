@@ -11,4 +11,5 @@
 
 * [Git 版本控制](tools/git.md)
 * [GitBook 电子书](tools/gitbook.md)
+* [Sublime Text 3 文本编辑器](tools/sublime-text-3.md)
 

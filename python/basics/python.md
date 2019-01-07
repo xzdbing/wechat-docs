@@ -50,7 +50,7 @@ Python 安装包可以从[官网](https://www.python.org/downloads/)下载，Win
     
     apt-get update
     apt-get install gcc make zlib1g-dev libreadline-dev libssl-dev libffi-dev  # ubuntu 环境下安装
-    # yum install gcc zlib-devel readline-devel openssl-devel  sqlite-devel     # centos 环境下安装
+    # yum install gcc zlib-devel readline-devel openssl-devel  sqlite-devel libffi-devel    # centos 环境下安装
     
     tar -zxvf Python-3.*.*.tgz -C /opt/
     cd /opt/Python-3.*.*
